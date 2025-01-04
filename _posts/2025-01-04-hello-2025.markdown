@@ -1,0 +1,48 @@
+---
+layout:     post
+title:      "Hello 2025"
+subtitle:   " \"Hello World, Hello Blog\""
+date:       2025-01-04 20:30:00
+author:     "Jianming Ma"
+header-img: "img/post-bg-2015.jpg"
+catalog: true
+mathjax: true
+tags:
+    - Hello
+---
+
+> “Yeah It's on. ”
+
+MJM的Blog开通了。
+
+目前还只是一个脚手架，后面可以开心地在上面做修补的工作了。
+
+特别感谢大佬[Hux](http://huangxuan.me)的开源博客，给新手提供了一个功能强大且美观的模板。
+
+该博客基于Jekyll平台，其余的细节目前还不知道。。。
+
+后面是一些功能
+---
+
+代码块的实现：
+
+```coq
+Definition aequiv (a1 a2 : aexp) : Prop :=
+  ∀(st : state), aeval st a1 = aeval st a2.
+Definition bequiv (b1 b2 : bexp) : Prop :=
+  ∀(st : state), beval st b1 = beval st b2.
+```
+
+公式的实现：
+
+需要在front matter中增加一行`mathjax: true`，之后在`_config.yml`中设置`page-mathjax: true`，就能开启公式渲染。
+
+Markdown中的公式用$号实现。
+
+$ E=mc^2 $
+
+
+
+
+
+
