@@ -1,11 +1,11 @@
 # Site settings
-title: MJM Blog
-SEOTitle: MJM Blog
+title: JianMarx Blog
+SEOTitle: JianMarx Blog
 header-img: img/home-bg.jpg
-email: nymajianming@163.com
+email: nymajianming@gmail.com
 description: "description nothing"
 keyword: "keyword nothing"
-url: "https://nothing" # your host, for absolute URL
+url: "https://mjianm.github.io" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -69,8 +69,8 @@ netease_comment: false
 # ba_track_id: [your track id]
 
 # Google Analytics
-ga_track_id: "UA-49627206-1" # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+ga_track_id: "G-VZD4RVZVDN" # Format: UA-xxxxxx-xx
+ga_domain: mjianm.github.io
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.

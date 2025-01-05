@@ -41,6 +41,13 @@ Markdown中的公式用$号实现。
 
 $ E=mc^2 $
 
+参考资料：
+
+[Jekyll Step by Step Tutorial](https://jekyllrb.com/docs/step-by-step/01-setup/)
+
+[基于Jekyll搭建个人博客](https://wu-kan.cn/2019/01/18/%E5%9F%BA%E4%BA%8EJekyll%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/)
+
+[Jekyll + Github Pages 博客搭建入门](https://www.jianshu.com/p/9f198d5779e6)
 
 
 
